@@ -1,1 +1,17 @@
 # Lisondato_GuessingGame
+
+How to Run the Python Guessing Game in Visual Studio Code
+
+1. Open Visual Studio Code: Launch Visual Studio Code on your computer.
+
+2. Open Integrated Terminal: Open the integrated terminal in Visual Studio Code by selecting View > Terminal from the top menu or using the shortcut Ctrl+` (backtick).
+
+3. Navigate to the Python File: Use the terminal to navigate to the directory where your Python file is located. You can use the cd command followed by the directory path to move to the desired location.
+
+4. Run the Python File: Once you are in the correct directory containing the Python file, type the following command in the terminal and press Enter:
+
+    python guessing_game.py
+
+5. Provide Input: Follow the prompts in the terminal to provide input for the guessing game. Enter your guesses as instructed by the program.
+
+6. View Output: After providing input and running the Python file, you will see the output messages in the terminal. The program will display messages indicating whether your guess was correct or not, along with any hints provided during the game.
